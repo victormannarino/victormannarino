@@ -1,6 +1,5 @@
-- 👋 Olá, sou @victormannarino
+- 👋 Olá, sou Sarah Cruz 
 - 👀 Estudante de sistemas de informação
-- 🌱 Aprendendo sobre Cibersegurança
 - 💞️ Conhecimentos em Python e C++
-- 📅 20 Anos
+- 📅 21 Anos
 
